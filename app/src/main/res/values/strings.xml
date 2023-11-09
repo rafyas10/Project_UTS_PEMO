@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Diet Plan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="activity_levels">
+        <item>Sedentary</item>
+        <item>Lightly Active</item>
+        <item>Moderately Active</item>
+        <item>Very Active</item>
+        <item>Super Active</item>
+    </string-array>
+
+    <string name="page_title">Diet Plan</string>
+
+
+</resources>
